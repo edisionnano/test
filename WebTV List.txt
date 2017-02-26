@@ -37,7 +37,7 @@ URL:http://s2.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
 Channel name: M.TV HD
 URL:http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8 
 Channel name: ANT1 SATELLITE
-URL:http://xedisionnanox.api.channel.livestream.com/3.0/playlist.m3u8
+URL:http://stream-03.vty.dailymotion.com/14/dm/1/x5da209/live.isml/live.m3u8?e=1488293585&st=HYJAHl1nWm9IS_yBzNKq3g
 Channel name: NICKELODEON
 URL:http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
 Channel name: group-title= tvg-logo=,CARTOON TV
