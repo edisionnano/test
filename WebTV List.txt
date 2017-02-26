@@ -40,43 +40,43 @@ Channel name: ANT1 SATELLITE
 URL:http://stream-03.vty.dailymotion.com/14/dm/1/x5da209/live.isml/live.m3u8?e=1488293585&st=HYJAHl1nWm9IS_yBzNKq3g
 Channel name: NICKELODEON
 URL:http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
-Channel name: group-title= tvg-logo=,CARTOON TV
+Channel name: CARTOON TV
 URL:http://web.onair-radio.eu:1935/cartoonstv/cartoonstv/playlist.m3u8
-Channel name: group-title= tvg-logo=,SMILE 
+Channel name: SMILE 
 URL:http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,KIDS TV
+Channel name: KIDS TV
 URL:http://iphone-streaming.ustream.tv/uhls/22988956/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,RELOAD TV
+Channel name: RELOAD TV
 URL:http://178.33.196.122:1935/reloadtv/reloadtv/playlist.m3u8
-Channel name: group-title= tvg-logo=,SPICY
+Channel name: SPICY
 URL:http://178.33.196.122:1935/ReloadtvGreek/ReloadtvGreek/playlist.m3u8
-Channel name: group-title= tvg-logo=,PALMOS
+Channel name: PALMOS
 URL:http://138.201.25.26:1935/ellinikos-palmos/ellinikos-palmos/playlist.m3u8
-Channel name: group-title= tvg-logo=,CINEMANIA
+Channel name: CINEMANIA
 URL:http://web.onair-radio.eu:1935/rocktv/rocktv/playlist.m3u8
-Channel name: group-title= tvg-logo=,ALPHA CINEMA
+Channel name: ALPHA CINEMA
 URL:http://138.201.25.26:1935/Alpha-Tv/Alpha-Tv/playlist.m3u8
-Channel name: group-title= tvg-logo=,DNA TV
+Channel name: DNA TV
 URL:http://178.33.196.122:1935/greekvideo/greekvideo/playlist.m3u8
-Channel name: group-title= tvg-logo=,MOVIES TV
+Channel name: MOVIES TV
 URL:http://live.streams.ovh:1935/MoviesTv/MoviesTv/playlist.m3u8
-Channel name: group-title= tvg-logo=,LAMPSI TV
+Channel name: LAMPSI TV
 URL:http://live.streams.ovh:1935/LampsiTV/LampsiTV/playlist.m3u8
-Channel name: group-title= tvg-logo=,CINEFIL GR
+Channel name: CINEFIL GR
 URL:http://web.onair-radio.eu:1935/moviesgr/moviesgr/playlist.m3u8
-Channel name: group-title= tvg-logo=,GREEK CINEMA 
+Channel name: GREEK CINEMA 
 URL:http://xnaturatv1x.api.channel.livestream.com/3.0/playlist.m3u8
-Channel name: group-title= tvg-logo=,NETV TORONTO
+Channel name: NETV TORONTO
 URL:http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
-Channel name: group-title= tvg-logo=,REBOOT
+Channel name: REBOOT
 URL:http://web.onair-radio.eu:1935/reboot/reboot/playlist.m3u8
-Channel name: group-title= tvg-logo=,MPAXALO TV
+Channel name: MPAXALO TV
 URL:http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
-Channel name: group-title= tvg-logo=,RELOAD BIZZ
+Channel name: RELOAD BIZZ
 URL:http://web.onair-radio.eu:1935/reloadbizz/reloadbizz/playlist.m3u8
-Channel name: group-title= tvg-logo=,MEGA COSMOS
+Channel name: MEGA COSMOS
 URL:http://s2.greekelitetv.com:1935/mega_cosmos/mega_cosmos.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,ALPHA SAT
+Channel name: ALPHA SAT
 URL:http://s2.greekelitetv.com:1935/alpha_sat/alpha_sat.stream/playlist.m3u8
 Channel name: EURONEWS
 URL:http://s2.greekelitetv.com:1935/euronews/euronews.stream/playlist.m3u8
@@ -88,171 +88,205 @@ Channel name: VOULI BUP
 URL:http://s2.greekelitetv.com:1935/vouli/vouli.stream/playlist.m3u8
 Channel name: VOULI 2
 URL:http://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
-Channel name: group-title= tvg-logo=,ERT WORLD 
+Channel name: ERT WORLD 
 URL:http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=942oejp0aab18editv470uao46
-Channel name: group-title= tvg-logo=,RIK SAT CY
+Channel name: RIK SAT CY
 URL:http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-riksat-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=942oejp0aab18editv470uao46
-Channel name: group-title= tvg-logo=,RIK SAT BUP CY
+Channel name: RIK SAT BUP CY
 URL:http://s2.greekelitetv.com:1935/riksat/riksat.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,MEGAONE CY BUP
+Channel name: MEGAONE CY BUP
 URL:http://s2.greekelitetv.com:1935/megacyprus/megacyprus.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,ALPHA CY
+Channel name: ALPHA CY
 URL:http://l4.cloudskep.com/alphacy/acy/playlist.m3u8
-Channel name: group-title= tvg-logo=,SIGMA CY
+Channel name: SIGMA CY
 URL:http://81.21.47.74/hls/live.m3u8
-Channel name: group-title= tvg-logo=,AB CHANNEL
+Channel name: AB CHANNEL
 URL:http://s2.greekelitetv.com:1935/abchannel/abchannel.stream/playlist.m3u8
 Channel name: ACTION 24 
 URL:http://s2.greekelitetv.com:1935/action24/action24.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,ATTICA TV
+Channel name: ATTICA TV
 URL:http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,BLUE SKY
+Channel name: BLUE SKY
 URL:http://136.243.200.184:1935/live/tvlive/playlist.m3u8
-Channel name: group-title= tvg-logo=,BLUE SKY BUP
+Channel name: BLUE SKY BUP
 URL:http://s2.greekelitetv.com:1935/bluesky/bluesky.stream/playlist.m3u8
 Channel name: EXTRA CHANNEL
 URL:http://s2.greekelitetv.com:1935/extra/extra.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,HIGH TV
+Channel name: HIGH TV
 URL:http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-Channel name: group-title= tvg-logo=,HIGH TV BUP
+Channel name: HIGH TV BUP
 URL:http://s2.greekelitetv.com:1935/hightv/hightv.stream/playlist.m3u8
 Channel name: KONTRA
 URL:http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:0, group-title= tvg-logo=,SBC
+#EXTINF:0, SBC
 URL:http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
-Channel name: group-title= tvg-logo=,ALERT
+Channel name: ALERT
 URL:http://iphone-streaming.ustream.tv/uhls/22790939/streams/live/iphone/playlist.m3u8
 Channel name: 4E
 URL:http://mail.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8
 Channel name: 4E BUP
 URL:http://s2.greekelitetv.com:1935/4e/4e.stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,MAD TV CY
+Channel name: MAD TV CY
 URL:http://eradio.networksolutions.com.cy:1935/live/livestream/playlist.m3u8
-Channel name: group-title= tvg-logo=,MAGIC TV 
+Channel name: MAGIC TV 
 URL:http://94.23.218.186:1935/magictv/magictv/playlist.m3u8
-Channel name: group-title= tvg-logo=,ALPHA MUSIC
+Channel name: ALPHA MUSIC
 URL:http://138.201.25.26:1935/Alpha-Music/Alpha-Music/playlist.m3u8
-Channel name: group-title= tvg-logo=,PLAY TV
+Channel name: PLAY TV
 URL:http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-Channel name: group-title= tvg-logo=,ZOUGLA TV
+Channel name: ZOUGLA TV
 URL:http://zouglahd-f.akamaihd.net/i/zougla_1@56341/master.m3u8
-Channel name: group-title= tvg-logo=,CANNALI
+Channel name: CANNALI
 URL:http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
-Channel name: group-title= tvg-logo=,XALASTRA TV
+Channel name: XALASTRA TV
 URL:http://94.23.218.186:1935/xalastratv/xalastratv/playlist.m3u8
-Channel name: group-title= tvg-logo=,TILEMOUSIKI
+Channel name: TILEMOUSIKI
 URL:http://iphone-streaming.ustream.tv/uhls/18655753/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,SUPERSTAR
+Channel name: SUPERSTAR
 URL:http://138.201.25.26:1935/nikos/nikos/playlist.m3u8
-Channel name: group-title= tvg-logo=,HEART BEAT
+Channel name: HEART BEAT
 URL:http://web.onair-radio.eu:1935/heart/heart/playlist.m3u8
-Channel name: group-title= tvg-logo=,NG TV
+Channel name: NG TV
 URL:http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
-Channel name: group-title= tvg-logo=,FOX TV
+Channel name: FOX TV
 URL:http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-Channel name: group-title= tvg-logo=,YOLO TV
+Channel name: YOLO TV
 URL:http://138.201.25.26:1935/yolotv/yolotv/playlist.m3u8
-Channel name: group-title= tvg-logo=,IONIAN CHANNEL
+Channel name: IONIAN CHANNEL
 URL:http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
-Channel name: group-title= tvg-logo=,ENA CHANNEL
+Channel name: ENA CHANNEL
 URL:http://wpc.68fc.edgecastcdn.net/hls-live/2068FC/ena-channel-live/video/video.m3u8
-Channel name: group-title= tvg-logo=,TV 100 
+Channel name: TV 100 
 URL:http://178.62.176.153/hls/tv100/index.m3u8
-Channel name: group-title= tvg-logo=,TV CRETA
+Channel name: TV CRETA
 URL:http://srv.viiideo.gr:1935/tvcreta/live/playlist.m3u8
 Channel name: KPHTH TV
 URL:http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-Channel name: group-title= tvg-logo=,NEA TV
+Channel name: NEA TV
 URL:http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
-Channel name: group-title= tvg-logo=,DIKTYO TV
+Channel name: DIKTYO TV
 URL:http://iphone-streaming.ustream.tv/uhls/2785459/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,TV EPILOGES
+Channel name: TV EPILOGES
 URL:http://iphone-streaming.ustream.tv/uhls/14718903/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,KANALI 6
+Channel name: KANALI 6
 URL:http://iphone-streaming.ustream.tv/uhls/11045578/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,R CHANNEL
+Channel name: R CHANNEL
 URL:http://94.23.218.186:1935/9010/9010/playlist.m3u8
-Channel name: group-title= tvg-logo=,THRAKI NET
+Channel name: THRAKI NET
 URL:http://hls.onestreaming.com:1935/live/thrakinettv/playlist.m3u8
-Channel name: group-title= tvg-logo=,AXELWOS TV
+Channel name: AXELWOS TV
 URL:http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-Channel name: group-title= tvg-logo=,BHMA TV
+Channel name: BHMA TV
 URL:http://iphone-streaming.ustream.tv/uhls/10731431/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,CORFU TV
+Channel name: CORFU TV
 URL:http://iphone-streaming.ustream.tv/uhls/22608117/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,TOP CHANNEL
+Channel name: TOP CHANNEL
 URL:http://iphone-streaming.ustream.tv/uhls/18640065/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,WEST CHANNEL
+Channel name: WEST CHANNEL
 URL:http://iphone-streaming.ustream.tv/uhls/14955467/streams/live/iphone/playlist.m3u8
 Channel name: EPIRUS TV1
 URL:http://iphone-streaming.ustream.tv/uhls/158633/streams/live/iphon/playlist.m3u8
-Channel name: group-title= tvg-logo=,ITV
+Channel name: ITV
 URL:http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,START TV
+Channel name: START TV
 URL:http://94.23.218.186:1935/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:0, group-title= tvg-logo=,ART TV 
+#EXTINF:0, ART TV 
 URL:http://iphone-streaming.ustream.tv/uhls/6875027/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,SUPER
+Channel name: SUPER
 URL:http://iphone-streaming.ustream.tv/uhls/11946358/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,ASTRA TV
+Channel name: ASTRA TV
 URL:http://www.astratv.gr:8090/hls/livestream.m3u8
-Channel name: group-title= tvg-logo=,E TV
+Channel name: E TV
 URL:http://176.9.30.75:1935/live/epsilon/playlist.m3u8
-Channel name: group-title= tvg-logo=,FLASH TV
+Channel name: FLASH TV
 URL:http://stream.ssh101.com:1935/live/flashtv99/playlist.m3u8
-Channel name: group-title= tvg-logo=,ACHAIA CHANNEL
+Channel name: ACHAIA CHANNEL
 URL:http://78.129.184.15:23319/streaming/stream/playlist.m3u8
-Channel name: group-title= tvg-logo=,BEST TV
+Channel name: BEST TV
 URL:http://138.201.57.212:1935/best/myStream/playlist.m3u8
-Channel name: group-title= tvg-logo=,LYCHNOS
+Channel name: LYCHNOS
 URL:http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
-Channel name: group-title= tvg-logo=,OMEGA TV
+Channel name: OMEGA TV
 URL:http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
-Channel name: group-title= tvg-logo=,AIGAIO TV
+Channel name: AIGAIO TV
 URL:http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8 
-Channel name: group-title= tvg-logo=,SAMIAKI TV
+Channel name: SAMIAKI TV
 URL:http://94.23.218.186:1935/samiaki/samiaki/playlist.m3u8
-Channel name: group-title= tvg-logo=,SYROS TV1
+Channel name: SYROS TV1
 URL:http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
-Channel name: group-title= tvg-logo=,VOLCANO
+Channel name: VOLCANO
 URL:http://176.9.123.140:1935/santorini/santorini/playlist.m3u8
-Channel name: group-title= tvg-logo=,HORSE RACES
+Channel name: HORSE RACES
 URL:http://odiehls-i.akamaihd.net/hls/live/233406/odie/odie.m3u8
-Channel name: group-title= tvg-logo=,GREEK VOICE 1
+Channel name: GREEK VOICE 1
 URL:http://stream.ssh101.com:1935/live/greekvoice/playlist.m3u8
-Channel name: group-title= tvg-logo=,GREEK VOICE 2
+Channel name: GREEK VOICE 2
 URL:http://iphone-streaming.ustream.tv/uhls/1989576/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,TINOS TV
+Channel name: TINOS TV
 URL:http://iphone-streaming.ustream.tv/uhls/20905250/streams/live/iphone/playlist.m3u8
-Channel name: group-title= tvg-logo=,HELLENIC TV
+Channel name: HELLENIC TV
 URL:http://freeview.fms.visionip.tv/live/tvnetwork-hellenictv-wnn-hsslive-25f-4x3-SDh/playlist.m3u8?PHPSESSID=942oejp0aab18editv470uao46
-Channel name: group-title= tvg-logo=,MESSINIA WEB TV
+Channel name: MESSINIA WEB TV
 URL:http://176.9.123.140:1935/messinia/messinia/master.m3u8
-Channel name: group-title= tvg-logo=,NEW TV
+Channel name: NEW TV
 URL:http://w11.streamgb.com:1935/Newtv/Newtv/playlist.m3u8
-Channel name: group-title= tvg-logo=,TV FILOPOLI
+Channel name: TV FILOPOLI
 URL:http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-Channel name: group-title= tvg-logo=,MANA ELLADA TV
+Channel name: MANA ELLADA TV
 URL:http://iphone-streaming.ustream.tv/uhls/17099727/streams/live/iphon/playlist.m3u8
-Channel name: group-title= tvg-logo=,TILESPORT
+Channel name: TILESPORT
 URL:http://78.47.151.114:1935/tilesport/movie1/playlist.m3u8
-Channel name: group-title= tvg-logo=,CRETA TV
+Channel name: CRETA TV
 URL:http://94.23.218.186:1935/cretatv/cretatv/playlist.m3u8
-Channel name: group-title= tvg-logo=,FAROS ON AIR TV
+Channel name: FAROS ON AIR TV
 URL:http://smooth2.istoikona.net:1935/farosonair/farosonair/playlist.m3u8
-Channel name: group-title= tvg-logo=,MONTREAL TV
+Channel name: MONTREAL TV
 URL:http://138.197.136.102:8081/live/greektv/playlist.m3u8
-Channel name: group-title= tvg-logo=,TV DIPSO
+Channel name: TV DIPSO
 URL:http://94.23.218.186:1935/ekpdipso/ekpdipso/playlist.m3u8
-Channel name: group-title= tvg-logo=,HELLAS TV
+Channel name: HELLAS TV
 URL:http://176.9.123.140:1935/hellastv/_definst_/mp4:stream/master.m3u8
-Channel name: group-title= tvg-logo=,RELOAD RADIO
+Channel name: RELOAD RADIO
 URL:http://web.onair-radio.eu:1935/ena/ena/playlist.m3u8
-Channel name: group-title= tvg-logo=,RADIO EPISTROFI
+Channel name: RADIO EPISTROFI
 URL:http://cystreams.com:8081/RadioEpistrofi/video.m3u8
-Channel name: group-title= tvg-logo=,ELLINIKOS FM
+Channel name: ELLINIKOS FM
 URL:http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
-Channel name: group-title= tvg-logo=,EBS
+Channel name: EBS
 URL:http://ott.ec.streamcloud.be/live/disk1/EBS/hls_el/EBS-audio_AACL_ell_66400_207=66400-video=800000.m3u8
-Channel name: group-title= tvg-logo=,EBS PLUS
+Channel name: EBS PLUS
 URL:http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus-audio_AACL_ell_66400_407=66400-video=800000.m3u8
+Channel name: ---[Greek += VOD]---
+URL:
+Channel name: FTWXADAKIA KAI LEFTADES
+URL:http://video.reloadradiolive.com/reload/video/FTOXADAKIA.mp4
+Channel name: O MPAKALOGATOS
+URL:http://video.reloadradiolive.com/reload/video/PAKALOGATOS.mp4
+Channel name: MIA TRELLH TRELLH OIKOGENEIA
+URL:http://video.reloadradiolive.com/reload/video/treli.mp4
+Channel name: NIGHT PATROL
+URL:http://video.reloadradiolive.com/reload/video/NIGHT PATROL.mp4
+Channel name: RANSOM
+URL:http://video.reloadradiolive.com/reload/video/RANSUME ON HONK KONK.mp4
+Channel name: KICKBOXER
+URL:http://video.reloadradiolive.com/reload/video/Kickboxer.mp4
+Channel name: THE BLUE LAGOON
+URL:http://video.reloadradiolive.com/reload/video/The Blue Lagoon.flv
+Channel name: ESCAPE TO VICTORY
+URL:http://video.reloadradiolive.com/reload/video/Victory.flv
+Channel name: GONE WITH THE WIND
+URL:http://video.reloadradiolive.com/reload/video/wind.flv
+Channel name: ONCE UPON A TIME IN THE WEST
+URL:http://video.reloadradiolive.com/reload/video/Once.flv
+Channel name: CASABLANCA
+URL:http://video.reloadradiolive.com/reload/video/casa.flv
+Channel name: SCARED STIFF
+URL:http://video.reloadradiolive.com/reload/video/Scared Stiff.mp4
+Channel name: BIG JAKE
+URL:http://video.reloadradiolive.com/reload/video/Big Jake.mp4
+Channel name: TO LONG DUEL
+URL:http://video.reloadradiolive.com/reload/video/THE LONG DUEL.mp4
+Channel name: RIO LOBO (1970)
+URL:http://video.reloadradiolive.com/reload/video/Rio Lobo (1970).mp4
+Channel name: A FISTFUL OF DOLLARS
+URL:http://video.reloadradiolive.com/reload/video/A Fistful Of Dollars.mp4
