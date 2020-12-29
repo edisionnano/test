@@ -1,0 +1,10 @@
+--- a/src/video_core/renderer_vulkan/vk_shader_decompiler.cpp
++++ b/src/video_core/renderer_vulkan/vk_shader_decompiler.cpp
+@@ -2094,7 +2094,6 @@
+             return OpFOrdGreaterThanEqual(t_bool, operand_1, operand_2);
+         default:
+             UNREACHABLE();
+-            return v_true;
+         }
+     }
+ 
