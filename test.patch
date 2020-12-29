@@ -1,0 +1,10 @@
+--- CMakeLists.txt	2020-12-29 12:56:07.000000000 +0200
++++ CMakeListsNew.txt	2020-12-29 17:17:52.261744097 +0200
+@@ -299,7 +299,6 @@
+         /we4457 # Declaration of 'identifier' hides function parameter
+         /we4458 # Declaration of 'identifier' hides class member
+         /we4459 # Declaration of 'identifier' hides global declaration
+-        /we4715 # 'function' : not all control paths return a value
+     )
+ else()
+     target_compile_options(video_core PRIVATE
